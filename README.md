@@ -93,6 +93,8 @@ Readings should be done before lecture series.
 43. Logic programming (4.4.1–3)
 44. Review (4.4.1–3)
 
+> **Note:** According to this [source](https://romanbird.github.io/sicp/), no lectures are actually missing. The gaps in numbering (e.g., no Lecture 15, or 27–29) correspond to **half-term breaks and spring breaks**, rather than lost content.
+
 ## Course Documents
 * Course Book - [Structure and Interpretation of Computer Programs](http://sarabander.github.io/sicp/)
 * [Course timetable](https://people.eecs.berkeley.edu/~bh/61a-pages/first-day-handout.pdf#page=18)
