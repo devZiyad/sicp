@@ -129,8 +129,10 @@ Readings should be done before lecture series.
 
 To keep track of progress and manage tasks effectively, I am using Trello. I have created a Trello board template that others can use to organize their own learning journey through SICP and CS61A.  
 
-You can access the Trello template here: **[Trello Board Template](your-trello-template-link)**.  
+You can access the Trello template here: **[Trello Board Template](https://trello.com/b/X9AlxWb6/sicp-cs61a-progress-tracker)**.  
 Feel free to copy and customize it to fit your needs.
+
+While setting up the Trello board, I encountered some difficulties in structuring the weeks. The homework schedule follows a **15 week format**, whereas the syllabus is organized into **14 weeks**. Additionally, different sources suggest slightly different recommended readings, which made it challenging to align everything perfectly. If you notice discrepancies, feel free to adjust the board according to your preferred structure.
 
 ---
 
