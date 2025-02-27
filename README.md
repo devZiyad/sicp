@@ -125,14 +125,18 @@ Readings should be done before lecture series.
     * [Sample Exam 2](https://github.com/theurere/berkeley_cs61a_spring-2011_archive/blob/master/docs/course_reader_vol_2/sample_exams/final/f-2.pdf) ([solution](https://github.com/theurere/berkeley_cs61a_spring-2011_archive/blob/master/docs/course_reader_vol_2/sample_exams/final/f-2_solutions.txt))
     * [Sample Exam 3](https://github.com/theurere/berkeley_cs61a_spring-2011_archive/blob/master/docs/course_reader_vol_2/sample_exams/final/f-3.pdf) ([solution](https://github.com/theurere/berkeley_cs61a_spring-2011_archive/blob/master/docs/course_reader_vol_2/sample_exams/final/f-3_solutions.txt))
 
-## Task Tracking Using Trello
+## Task Tracking
 
-To keep track of progress and manage tasks effectively, I am using Trello. I have created a Trello board template that others can use to organize their own learning journey through SICP and CS61A.  
+To keep track of progress and manage tasks effectively, You can use Trello. I have created a Trello board template that others can use to organize their own learning journey through SICP and CS61A.  
 
 You can access the Trello template here: **[Trello Board Template](https://trello.com/b/X9AlxWb6/sicp-cs61a-progress-tracker)**.  
 Feel free to copy and customize it to fit your needs.
 
-While setting up the Trello board, I encountered some difficulties in structuring the weeks. The homework schedule follows a **15 week format**, whereas the syllabus is organized into **14 weeks**. Additionally, different sources suggest slightly different recommended readings, which made it challenging to align everything perfectly. If you notice discrepancies, feel free to adjust the board according to your preferred structure.
+If you prefer to track your progress using Markdown, you can use the **study plan template** I created. It provides a structured way to document your learning journey.  
+
+You can access the Markdown study plan template here: **[Study Plan Template](sicp-cs61a-study-tracker.md)**.
+
+While setting up the study plan, I encountered some difficulties in structuring the weeks. The homework schedule follows a **15 week format**, whereas the syllabus is organized into **14 weeks**. Additionally, different sources suggest slightly different recommended readings, which made it challenging to align everything perfectly. If you notice discrepancies, feel free to adjust the board according to your preferred structure.
 
 ---
 
